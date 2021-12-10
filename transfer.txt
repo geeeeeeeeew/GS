@@ -1,0 +1,5 @@
+transfer,deck1 2 150,deck8 1 10
+transfer,deck2 2 100,deck10 2 20
+transfer,deck8 1 10,deck12 2 30
+transfer,deck8 10 20,deck12 4 20
+transfer,deck10 3 50,deck10 5 10

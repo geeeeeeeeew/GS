@@ -1,0 +1,14 @@
+mix, deck10 1 20, deck12 2 10,deck8 1 10
+mix,deck10 1 20, deck12 1 50,deck8 2 10
+mix ,deck10 2 25,deck12 2 55,deck8 1 20
+mix,deck10 12 50,deck12 3 20,deck8 5 50
+transfer,deck1 2 150,deck8 1 10
+transfer,deck2 2 100,deck10 2 20
+mix, deck10 7 20, deck12 2 10,deck8 1 10
+mix,deck10 8 20, deck12 1 50,deck8 2 10
+mix ,deck10 9 25,deck12 2 55,deck8 1 20
+mix,deck10 12 50,deck12 3 20,deck8 5 50
+mix, deck10 1 20, deck12 2 10,deck8 1 10
+mix,deck10 1 20, deck12 1 50,deck8 2 10
+mix ,deck10 2 25,deck12 2 55,deck8 1 20
+mix,deck10 12 50,deck12 3 20,deck8 5 50
